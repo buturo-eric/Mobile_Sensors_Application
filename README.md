@@ -16,9 +16,9 @@ Flutter project.
 
 # Motion Detection and Security
 
-Notification is sent every after or above 100 steps walked. i.e 100, 200, 300, ...
+Notification is sent every after or above 100 steps recorded. i.e 100, 200, 300, ...
 
-<img width="343" alt="Screenshot 2024-05-16 at 16 41 58" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/a45c3f9d-cba2-44f8-840d-025d0b4c998e">
+<img width="337" alt="Screenshot 2024-05-16 at 18 05 49" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/03c3724c-d040-4000-b556-3d319c2cd0bf">
 <img width="351" alt="Screenshot 2024-05-16 at 16 41 37" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/cbb55890-ecd8-4911-b4fa-3b3059321092">
 
 # Location Tracking and Geofencing
