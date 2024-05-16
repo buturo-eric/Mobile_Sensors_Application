@@ -19,7 +19,9 @@ Flutter project.
 Notification is sent every after or above 100 steps recorded. i.e 100, 200, 300, ...
 
 <img width="337" alt="Screenshot 2024-05-16 at 18 05 49" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/03c3724c-d040-4000-b556-3d319c2cd0bf">
-<img width="351" alt="Screenshot 2024-05-16 at 16 41 37" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/cbb55890-ecd8-4911-b4fa-3b3059321092">
+<img width="338" alt="Screenshot 2024-05-16 at 19 04 13" src="https://github.com/buturo-eric/Mobile_Sensors_Application/assets/101606074/e8e7d76e-11a0-4722-956c-730adee7b32e">
+
+
 
 # Location Tracking and Geofencing
 
@@ -32,5 +34,6 @@ Green represents Home (Kanombe)
 
 
 
-[Mobile_Sensors_Application_Documentation.pdf](https://github.com/buturo-eric/Mobile_Sensors_Application/files/15337519/Mobile_Sensors_Application_Documentation.pdf)
+
+[Mobile_Sensors_Application_Documentation.pdf](https://github.com/buturo-eric/Mobile_Sensors_Application/files/15338676/Mobile_Sensors_Application_Documentation.pdf)
 
