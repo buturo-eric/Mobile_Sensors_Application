@@ -35,5 +35,4 @@ Green represents Home (Kanombe)
 
 
 
-[Mobile_Sensors_Application_Documentation.pdf](https://github.com/buturo-eric/Mobile_Sensors_Application/files/15338676/Mobile_Sensors_Application_Documentation.pdf)
-
+[Mobile_Sensors_Application_Documentation.pdf](https://github.com/buturo-eric/Mobile_Sensors_Application/files/15338801/Mobile_Sensors_Application_Documentation.pdf)
